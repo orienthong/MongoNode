@@ -1,0 +1,22 @@
+{
+  "name": "scauos",
+  "version": "1.0.0",
+  "description": "Simple project demonstrating how to interface with a",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scauos/MongoNode.git"
+  },
+  "author": "HaoDong Hong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scauos/MongoNode/issues"
+  },
+  "homepage": "https://github.com/scauos/MongoNode#readme",
+  "dependencies": {
+    "mongodb": "^2.2.11"
+  }
+}

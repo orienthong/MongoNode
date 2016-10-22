@@ -18,6 +18,7 @@ var connect = function (databaseName, callback) {
     callback(database);
   })
 };
+
 /**
 * Executes the find() method of the target collection in the
 * target database, optionally with a query.
